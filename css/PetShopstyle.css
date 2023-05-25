@@ -115,4 +115,18 @@
         margin-top: 10px;
     }
 
-    
+    #linha{
+        border-top: #6dd462;
+        
+    }
+
+    .img{
+        height: 60px;
+        width: 60px;
+        margin-right: 80px;
+       
+    }
+
+    h4{
+        margin-top: 30px;
+    }
